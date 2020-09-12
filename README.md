@@ -24,6 +24,6 @@ There are three folders for projects:
 
 This file will be updated as more projects are included.
 
-* **COMMENT ON projectBulldozer**: the input data is larger than 100MB (limit for github). So, to run locally, download files `TrainAndValid.csv` and "Test.csv" from [kaggle competition](https://www.kaggle.com/c/bluebook-for-bulldozers/overview).
+* **COMMENT ON projectBulldozer**: the input data is larger than 100MB (limit for github). So, to run locally, download files `TrainAndValid.csv` and `Test.csv` from [kaggle competition](https://www.kaggle.com/c/bluebook-for-bulldozers/overview).
 
 Comments and criticism are welcome!  
