@@ -21,6 +21,7 @@ There are three folders for projects:
 	Contains 2 projects:
 	1. **projectBoston**: linear regression study using the boston dataset preloaded in scikit-learn. Comparing MSE between single and multivariate model.
 	2. **projectBulldozer**: time series analysis problem with dataset from [kaggle competition](https://www.kaggle.com/c/bluebook-for-bulldozers/overview/evaluation)
+	3. **projectBikeSeoul**: This project uses a [data set](https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand) from the UCI repository containing information on the number of rented bikes in Seoul by hour from 01/12/2017 to 30/11/2018. A lot of weather information was also collected fro each hour of this period. Objective is to predict the number of bikes rented for each hour.
 
 This file will be updated as more projects are included.
 
